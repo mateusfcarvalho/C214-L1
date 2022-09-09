@@ -1,10 +1,12 @@
 <h1 align="center">Laboratório de Engenharia de Software</h1>
 
 <div align="center">
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/mateusfcarvalho/C214-L1)
 ![GitHub language count](https://img.shields.io/github/languages/count/mateusfcarvalho/C214-L1)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/mateusfcarvalho/C214-L1)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/mateusfcarvalho/C214-L1)
+
 </div>
 
 # C214-L1
@@ -54,4 +56,4 @@ Cada dependência ficará na sua própria tag "dependency"
 Refatore!!
 
 <God save The Queen>
-    <Queen Elizabeth II in the UK - 8/9 >
+    <In memory Queen Elizabeth II of UK - 8/9 >
