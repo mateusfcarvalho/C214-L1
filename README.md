@@ -56,4 +56,4 @@ Cada dependência ficará na sua própria tag "dependency"
 Refatore!!
 
 <God save The Queen>
-    <In memory Queen Elizabeth II of UK - 8/9 >
+    <In memory of Queen Elizabeth II of UK - 8/9 >
