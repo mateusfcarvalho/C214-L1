@@ -30,8 +30,8 @@ Copie a dependência como no exemplo abaixo:
     <scope>test</scope>
 </dependency>
 ```
-Em seguida em um arquivo pom.xml, colocamos dentro da tag<dependencies> (plural) o arquivo copiado.
-Cada dependência ficará na sua própria tag <dependency>
+Em seguida em um arquivo pom.xml, coloque dentro da tag "dependencies" (plural) o arquivo copiado.
+Cada dependência ficará na sua própria tag "dependency"
 
 ```sh
 <dependencies>
