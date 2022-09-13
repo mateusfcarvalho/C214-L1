@@ -20,7 +20,7 @@ Aulas já ministradas no laboratório (isso é apenas para exemplificação):
 - [x] Aula 1
 - [x] Aula 2
 - [x] Aula 3
-- [ ] Aula 4
+- [x] Aula 4
 - [ ] Aula 5
 
 ## 💻 Pré-requisitos
